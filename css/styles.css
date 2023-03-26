@@ -23,11 +23,13 @@
     #customers { 
     margin-bottom: 1%; 
     margin-top: 1%; 
-    font-family: Arial, Helvetica, sans-serif; border-collapse: collapse; width: 100%; }
+    font-family: Arial, Helvetica, sans-serif; 
+    border-collapse: collapse; width: 100%; }
     
     #customers td, #customers th { 
     border: 1px solid #ddd; 
-    text-align: left; padding: 8px; } #customers tr:nth-child(even) { 
+    text-align: left; 
+    padding: 8px; } #customers tr:nth-child(even) { 
     background-color: #f2f2f2; } #customers tr:hover { background-color: #ddd; } 
     
     #customers th { 
@@ -58,9 +60,9 @@
     margin-right: 2%;   padding: 0; overflow: hidden; font-size: 14px; text-align: center; } .sora-author-box-text1
       
      .hello-txt { background-color: #4caf50; color: #fff; font-size: 14px; font-weight: 700; line-height: 1.1; display: inline-block; padding: 7px 12px; text-transform: uppercase; position: relative; margin-bottom: 28px; } .sora-author-box-text1
-      .sora-author-box-text-head { color: #3d4451; padding-bottom: 25px; margin-top: 25px; margin-bottom: 25px; border-bottom: 1px solid #dedede; } .sora-author-box-text 
+     .sora-author-box-text-head { color: #3d4451; padding-bottom: 25px; margin-top: 25px; margin-bottom: 25px; border-bottom: 1px solid #dedede; } .sora-author-box-text 
       
-.sora-author-box-text { padding: 0; overflow: hidden; text-align: left; }
+     .sora-author-box-text { padding: 0; overflow: hidden; text-align: left; }
     
-    .hello-txt:before { border-left-color:#4caf50; content: ''; width: 0; height: 0; top: 100%; left: 5px; display: block; position: absolute; border-style: solid; border-width: 0 0 8px 8px; } 
+     .hello-txt:before { border-left-color:#4caf50; content: ''; width: 0; height: 0; top: 100%; left: 5px; display: block; position: absolute; border-style: solid; border-width: 0 0 8px 8px; } 
     
