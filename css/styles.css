@@ -31,7 +31,7 @@
      padding: 8px; } 
 
    #customers tr:nth-child(even) { 
-     background-color: #452CAC; } 
+     background-color: #f2f2f2; } 
 
    #customers tr:hover { 
      background-color: #ddd; } 
@@ -47,7 +47,7 @@
      visibility: hidden; 
      min-width: 250px; 
      margin-left: -125px; 
-     background-color: #333; 
+     background-color: #452CAC; 
      color: #fff; 
      text-align: center; 
      border-radius: 2px; 
