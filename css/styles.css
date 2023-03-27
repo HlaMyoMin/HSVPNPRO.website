@@ -74,15 +74,15 @@
      text-align: center; } .sora-author-box-text1
       
      .hello-txt { 
-     background-color: #4caf50; 
+     background-color: #452CAC; 
      color: #fff; 
      font-size: 14px; 
      font-weight: 700; 
      line-height: 1.1; 
      display: inline-block; 
      padding: 7px 12px; 
-     text-transform: 
-     uppercase; position: relative; 
+     text-transform: uppercase; 
+     position: relative; 
      margin-bottom: 28px; } .sora-author-box-text1
      .sora-author-box-text-head { 
      color: #3d4451; 
@@ -97,7 +97,7 @@
      text-align: left; }
     
      .hello-txt:before { 
-     border-left-color:#4caf50; 
+     border-left-color:#452CAC; 
      content: ''; 
      width: 0; 
      height: 0; 
