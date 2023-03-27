@@ -75,7 +75,7 @@
      .sora-author-box-text1
       
      .hello-txt { 
-     background-color: #452CAC; 
+     background-color: #6a5acd; 
      color: #fff; 
      font-size: 14px; 
      font-weight: 700; 
@@ -84,21 +84,20 @@
      padding: 7px 12px; 
      text-transform: uppercase; 
      position: relative; 
-     margin-bottom: 28px; } 
-     .sora-author-box-text1
+     margin-bottom: 28px; 
+     }.sora-author-box-text1
      .sora-author-box-text-head { 
      color: #3d4451; 
      padding-bottom: 25px; 
      margin-top: 25px; 
      margin-bottom: 25px; 
      border-bottom: 1px solid #dedede; 
-     } 
-     .sora-author-box-text 
+     }.sora-author-box-text 
      .sora-author-box-text { 
      padding: 0; overflow: hidden; 
-     text-align: left; }
-    
-     .hello-txt:before { 
+     text-align: left; 
+
+     }.hello-txt:before { 
      border-left-color:#452CAC; 
      content: ''; 
      width: 0; 
