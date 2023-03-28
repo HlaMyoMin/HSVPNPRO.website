@@ -78,7 +78,7 @@
 
     }.sora-author-box-text1
      .hello-txt { 
-     background-color: #021b3a; 
+     background-color: #452CAC; 
      color: #ffffff; 
      font-size: 14px; 
      font-weight: 700; 
@@ -99,7 +99,6 @@
 
     }.hello-txt:before { 
      border-left-color:#452CAC; 
-     color: #ffffff; 
      content: ''; 
      width: 0; 
      height: 0; 
