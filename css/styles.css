@@ -30,7 +30,8 @@
      text-align: left; 
      padding: 8px; } 
 
-   #customers tr:nth-child(even) }
+   #customers tr:nth-child(even) {
+     background-color: #021b3a; }
      
 
    #customers tr:hover { 
@@ -94,7 +95,8 @@
      border-bottom: 1px solid #dedede; 
 
     }.sora-author-box-text.sora-author-box-text { 
-     padding: 0; overflow: hidden; 
+     padding: 0; 
+     overflow: hidden; 
      text-align: left; 
 
     }.hello-txt:before { 
