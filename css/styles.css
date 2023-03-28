@@ -78,8 +78,8 @@
 
     }.sora-author-box-text1
      .hello-txt { 
-     background-color: #452CAC; 
-     color: #fffff; 
+     background-color: #021b3a; 
+     color: #ffffff; 
      font-size: 14px; 
      font-weight: 700; 
      line-height: 1.1; 
@@ -99,6 +99,7 @@
 
     }.hello-txt:before { 
      border-left-color:#452CAC; 
+     color: #ffffff; 
      content: ''; 
      width: 0; 
      height: 0; 
