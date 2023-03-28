@@ -30,8 +30,8 @@
      text-align: left; 
      padding: 8px; } 
 
-   #customers tr:nth-child(even) { 
-     background-color: #021b3a; } 
+   #customers tr:nth-child(even) }
+     
 
    #customers tr:hover { 
      background-color: #ddd; } 
