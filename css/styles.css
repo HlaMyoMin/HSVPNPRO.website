@@ -31,7 +31,7 @@
      padding: 8px; } 
 
    #customers tr:nth-child(even) { 
-     background-color: #021b3a; } 
+     background-color: #452CAC; } 
 
    #customers tr:hover { 
      background-color: #ddd; } 
@@ -63,9 +63,9 @@
      -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s; 
      animation: fadein 0.5s, fadeout 0.5s 2.5s; 
      } @-webkit-keyframes fadein { from { bottom: 0; opacity: 0; } to { bottom: 30px; opacity: 1; } } @keyframes fadein { from { bottom: 0; opacity: 0; } to { bottom: 30px; opacity: 1; } 
-     } @-webkit-keyframes fadeout { from { bottom: 30px; opacity: 1; } to { bottom: 0; opacity: 0; } } @keyframes fadeout { from { bottom: 30px; opacity: 1; } to { bottom: 0; opacity: 0; } }
-     
-     .sora-author-box-text1 {
+     } @-webkit-keyframes fadeout { from { bottom: 30px; opacity: 1; } to { bottom: 0; opacity: 0; } } @keyframes fadeout { from { bottom: 30px; opacity: 1; } to { bottom: 0; opacity: 0; } 
+
+    }.sora-author-box-text1 {
      background-color: #452CAC;
      margin-left: 2%;
      margin-right: 2%;   
@@ -74,9 +74,8 @@
      font-size: 14px; 
      text-align: center; 
 
-    }.sora-author-box-text1 
-     .hello-txt { 
-     background-color: #452CAC; 
+    }.sora-author-box-text1.hello-txt { 
+     background-color: #021b3a; 
      color: #fff; 
      font-size: 14px; 
      font-weight: 700; 
