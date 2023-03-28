@@ -32,7 +32,7 @@
      padding: 8px; } 
 
    #customers tr:nth-child(even) {
-     background-color: #ffffff; }
+     background-color: #452CAC; }
      
 
    #customers tr:hover { 
@@ -79,7 +79,7 @@
     }.sora-author-box-text1
      .hello-txt { 
      background-color: #452CAC; 
-     color: #fff; 
+     color: #fffff; 
      font-size: 14px; 
      font-weight: 700; 
      line-height: 1.1; 
@@ -91,7 +91,7 @@
 
     }.sora-author-box-text1
      .sora-author-box-text-head { 
-     color: #452CAC; 
+     color: #ffffff; 
      padding-bottom: 25px; 
      margin-top: 25px; 
      margin-bottom: 25px; 
