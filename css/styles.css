@@ -61,14 +61,13 @@
      bottom: 30px; 
      font-size: 17px; }
    
-    #snackbar.show { 
+   #snackbar.show { 
      visibility: visible; 
-    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s; 
-     animation: fadein 0.5s, fadeout 0.5s 2.5s; 
-     } @-webkit-keyframes fadein { from { bottom: 0; opacity: 0; } to { bottom: 30px; opacity: 1; } } @keyframes fadein { from { bottom: 0; opacity: 0; } to { bottom: 30px; opacity: 1; } 
-     } @-webkit-keyframes fadeout { from { bottom: 30px; opacity: 1; } to { bottom: 0; opacity: 0; } } @keyframes fadeout { from { bottom: 30px; opacity: 1; } to { bottom: 0; opacity: 0; } 
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s; animation: fadein 0.5s, fadeout 0.5s 2.5s; 
+ } @-webkit-keyframes fadein { from { bottom: 0; opacity: 0; } to { bottom: 30px; opacity: 1; } } @keyframes fadein { from { bottom: 0; opacity: 0; } to { bottom: 30px; opacity: 1; } 
+ } @-webkit-keyframes fadeout { from { bottom: 30px; opacity: 1; } to { bottom: 0; opacity: 0; } } @keyframes fadeout { from { bottom: 30px; opacity: 1; } to { bottom: 0; opacity: 0; } }
 
-    }.sora-author-box-text1 {
+    .sora-author-box-text1 {
      background-color: #021b3a;
      margin-left: 2%;
      margin-right: 2%;   
@@ -77,8 +76,8 @@
      font-size: 14px; 
      text-align: center; 
 
-    }.sora-author-box-text1
-     .hello-txt { 
+   }.sora-author-box-text1
+    .hello-txt { 
      background-color: #452CAC; 
      color: #ffffff; 
      font-size: 14px; 
@@ -90,15 +89,27 @@
      position: relative; 
      margin-bottom: 28px; 
 
-    }.sora-author-box-text1
-     .sora-author-box-text-head { 
+    .hello-txt { 
+     background-color: #4caf50; 
+     color: #fff; 
+     font-size: 14px; 
+     font-weight: 700; 
+     line-height: 1.1; 
+     display: inline-block; 
+     padding: 7px 12px; 
+     text-transform: uppercase; 
+     position: relative; 
+     margin-bottom: 28px; }
+
+    .sora-author-box-text1
+    .sora-author-box-text-head { 
      color: #ffffff; 
      padding-bottom: 25px; 
      margin-top: 25px; 
      margin-bottom: 25px; 
      border-bottom: 1px solid #dedede; 
 
-    }.hello-txt:before { 
+   }.hello-txt:before { 
      border-left-color:#452CAC; 
      content: ''; 
      width: 0; 
