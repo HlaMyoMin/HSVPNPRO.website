@@ -96,7 +96,7 @@
      padding-bottom: 25px; 
      margin-top: 25px; 
      margin-bottom: 25px; 
-     border-bottom: 1px solid #452CAC; 
+     border-bottom: 0px solid #021b3a; 
 
    }.hello-txt:before { 
      border-left-color:#452CAC; 
