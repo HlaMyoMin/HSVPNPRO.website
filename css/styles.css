@@ -2,6 +2,7 @@
 #more2 {display: none;}
 
    .card {
+    background-color: #452CAC;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     width: auto;
@@ -28,6 +29,7 @@
     
    #customers td, #customers th { 
      border: 1px solid #ddd; 
+     background-color: #021b3a;
      text-align: left; 
      padding: 8px; } 
 
