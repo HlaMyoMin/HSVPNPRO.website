@@ -86,14 +86,14 @@
      position: relative; 
      margin-bottom: 28px; 
 
-    }.sora-author-box-text1.hs-author-box-text-head { 
+    }.sora-author-box-text1.sora-author-box-text-head { 
      color: #452CAC; 
      padding-bottom: 25px; 
      margin-top: 25px; 
      margin-bottom: 25px; 
      border-bottom: 1px solid #dedede; 
 
-    }.sora-author-box-text.hs-author-box-text { 
+    }.sora-author-box-text.sora-author-box-text { 
      padding: 0; overflow: hidden; 
      text-align: left; 
 
