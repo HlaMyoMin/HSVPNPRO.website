@@ -8,8 +8,8 @@
     font-size: 14px;
     height: auto;
     margin-top: 5%;
-    margin-left: 0%;
-    margin-right: 0%;
+    margin-left: 2%;
+    margin-right: 2%;
    }
 
    .card:hover {
@@ -35,7 +35,7 @@
      background-color: #452CAC; }
 
    #customers tr:hover { 
-     background-color: #ddd; } 
+     background-color: #452CAC; } 
     
    #customers th { 
      padding-top: 12px; 
