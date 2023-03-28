@@ -20,8 +20,8 @@
     
    #customers { 
      background-color: #021b3a;
-     
-     margin-top: 1%; 
+     margin-bottom: 1%;
+     margin-top: 1%;
      font-family: Arial, Helvetica, sans-serif; 
      border-collapse: collapse; 
      width: 100%; }
@@ -32,7 +32,7 @@
      padding: 8px; } 
 
    #customers tr:nth-child(even) {
-     background-color: #021b3a; }
+     background-color: #ffffff; }
      
 
    #customers tr:hover { 
