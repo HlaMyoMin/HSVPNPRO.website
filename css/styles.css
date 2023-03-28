@@ -33,7 +33,6 @@
 
    #customers tr:nth-child(even) {
      background-color: #452CAC; }
-     
 
    #customers tr:hover { 
      background-color: #ddd; } 
