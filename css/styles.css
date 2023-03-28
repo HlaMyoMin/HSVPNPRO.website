@@ -66,6 +66,7 @@
      } @-webkit-keyframes fadeout { from { bottom: 30px; opacity: 1; } to { bottom: 0; opacity: 0; } } @keyframes fadeout { from { bottom: 30px; opacity: 1; } to { bottom: 0; opacity: 0; } }
      
      .sora-author-box-text1 {
+     background: #452CAC;
      margin-left: 2%;
      margin-right: 2%;   
      padding: 0; 
