@@ -1,1 +1,1 @@
-https://hlamyomin.github.io/HSVPNPRO.website/
+https://hlamyomin.github.io/hsvpnpro_official/
